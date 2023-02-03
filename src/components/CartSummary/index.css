@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.total-text {
+  color: #616e7c;
+  font-size: 13px;
+}
+.span-amount {
+  color: black;
+}
+.items-cart-text {
+  color: #616e7c;
+  font-size: 10px;
+}
+.checkout-button {
+  background-color: #0b69ff;
+  color: white;
+  border-width: 0px;
+  border-radius: 4px;
+}
+.checkout-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
